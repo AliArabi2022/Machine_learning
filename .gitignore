@@ -1,4 +1,5 @@
-ComputerVision\data\cifar-10-batches-py
+ComputerVision/data/cifar-10-batches-py
+
 # Compiled source #
 ###################
 *.com
