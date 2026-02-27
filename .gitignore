@@ -1,5 +1,7 @@
-ComputerVision/data/cifar-10-batches-py
-
+Machine_learning/ComputerVision/data/cifar-10-batches-py/
+ComputerVision/Image/data/cifar-10-batches-py/
+Machine_learning/ComputerVision/data/FashionMNIST/
+ComputerVision/data/FashionMNIST/
 # Compiled source #
 ###################
 *.com
